@@ -70,7 +70,7 @@ body  /* all above upto body: text-aligned: cetre are for browser recognition. I
 #top_menu /*navigation bar*/
 {
 	border: red;
-	background:blue;
+	background: orange; /*blue;*/
 	color:white;
 }
 #top_menu li
